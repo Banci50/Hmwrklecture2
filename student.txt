@@ -1,0 +1,3 @@
+student name: sebastian banci
+student number: 666253
+student class: IT 
